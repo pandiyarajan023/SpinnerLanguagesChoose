@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SpinnerLanguagesChoose</string>
+    <string name="choose">Choose a country</string>
+
+    <string-array name="languages">
+    <item>English</item>
+    <item>Hindi</item>
+    <item>Tamil</item>
+    <item>Chinese</item>
+    </string-array>
+
+</resources>
